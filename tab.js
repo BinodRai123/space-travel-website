@@ -78,3 +78,5 @@ function hideContent(parent, content) {
 function showContent(parent, content) {
     parent.querySelector(`#${content}`).removeAttribute('hidden');
 }
+
+console.log('hello');
