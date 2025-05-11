@@ -1,19 +1,59 @@
-# Getting Started
-Install the dependencies and run the project
+# 🚀 Space Travel Website
+
+A responsive and interactive multi-page space tourism website built using **HTML**, **CSS**, and **JavaScript**. This project offers users an immersive experience into the world of space exploration, featuring smooth navigation, dynamic content, and a sleek design.
+
+🔗 **Live Demo**: [https://space-travel112.netlify.app/](https://space-travel112.netlify.app/)
+
+## 🌟 Features
+
+- **Multi-Page Layout**: Navigate seamlessly between Home, Destination, Crew, and Technology pages.
+- **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
+- **Interactive Navigation**: Smooth transitions and active link highlighting enhance user experience.
+- **Engaging Content**: Each page provides detailed information accompanied by relevant imagery.
+- **Modern UI/UX**: Clean and intuitive design inspired by contemporary space tourism concepts.
+
+## 🛠️ Technologies Used
+
+- **HTML5**: Semantic structure and content organization.
+- **CSS3**: Styling, layout, and responsive design using Flexbox and Grid.
+- **JavaScript**: Dynamic interactions and DOM manipulation.
+
+## 📁 Folder Structure
+
 ```
-npm install
-npm start
+space-travel-website/
+├── assets/
+│   ├── images/
+│   └── fonts/
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+├── index.html
+├── destination.html
+├── crew.html
+├── technology.html
+└── README.md
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+## 🚀 Getting Started
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+To view the project locally:
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/BinodRai123/space-travel-website.git
+   ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd space-travel-website
+   ```
+3. **Open `index.html` in your preferred browser**.
 
-Happy Coding!
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Feel free to explore the cosmos through this website and get a glimpse of what space tourism has to offer! 🌌
