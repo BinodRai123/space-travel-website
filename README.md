@@ -1,4 +1,4 @@
-# 🚀 Space Travel Website
+# 🚀 Space Travel Website For Fun
 
 A responsive and interactive multi-page space tourism website built using **HTML**, **CSS**, and **JavaScript**. This project offers users an immersive experience into the world of space exploration, featuring smooth navigation, dynamic content, and a sleek design.
 
